@@ -1,0 +1,4 @@
+spring:
+  ai.mcp:
+    server:
+      stdio: false  # Use SSE for integration tests
